@@ -95,7 +95,7 @@ The analysis investigates 12 questions:
 - Category margins varied within a relatively narrow range, showing why total profit and profit margin should be evaluated together.
 
 ### 4. Brand Performance
-- Adventure Works was the leading brand by revenue, generating approximately **$11.85 million** with a profit margin of about **58.5%**.
+- Adventure Works was the leading brand by revenue, generating approximately **$11.84 million** with a profit margin of about **58.5%**.
 - The Phone Company ranked fifth by revenue among the leading brands, but had the lowest margin among the top five at approximately **56.8%**.
 
 ### 5. Pricing and Sales Volume
@@ -237,7 +237,7 @@ This project conducted an end-to-end analysis of retail sales data using Python,
 
 - **Online and Physical-Store Performance**
 
-    Physical stores contributed approximately 79.5% of total revenue, equivalent to $44.35 million, while online sales contributed approximately 20.5%, or $11.40 million. This shows that physical stores represented the larger revenue channel in the analyzed period. At the same time, the online revenue share increased from 16.8% in 2016 to 22.3% in 2020, indicating a growing contribution from online sales.
+    Physical stores contributed approximately 79.5% of total revenue, equivalent to $44.32 million, while online sales contributed approximately 20.5%, or $11.40 million. This shows that physical stores represented the larger revenue channel in the analyzed period. At the same time, the online revenue share increased from 16.9% in 2016 to 22.3% in 2020, indicating a growing contribution from online sales.
 
     Online and physical-store profit margins were similar, at approximately 58.5% and 58.6%, respectively. Online delivery analysis also showed an average delivery time of approximately 4.5 days, with a median of 4 days. The results suggest that the online channel is a meaningful part of the business and may offer opportunities for further development. Future investment decisions should consider growth potential, customer demand, fulfilment costs, and operational capacity.
 
